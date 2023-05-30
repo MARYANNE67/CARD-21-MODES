@@ -15,8 +15,10 @@ Installation and Usage
 To run the game, follow these steps:
 
 To play:
-clone repo
+Clone repo
+
 Run the makefile with the command "make" in terminal
+
 Play/Execute the game with the command "./cardgame"
 
 If you have any questions or feedback regarding this project, please feel free to contact me. Enjoy playing "21"!
